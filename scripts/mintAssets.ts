@@ -45,3 +45,4 @@ const mint = async (provider: Provider): Promise<TransactionResponse> => {
 };
 
 mint(provider);
+npm run mint
